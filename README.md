@@ -1,0 +1,2 @@
+# SomeGoAlgo
+ Just practicing
